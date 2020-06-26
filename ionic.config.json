@@ -1,0 +1,7 @@
+{
+  "name": "lego-14",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
